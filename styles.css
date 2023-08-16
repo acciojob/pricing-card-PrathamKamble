@@ -1,15 +1,21 @@
+
 .card
 {
-	text-align: center;
+    width: 250px;
     padding: 40px;
     background-color: #f1f1f1;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
 }
 
 .image
 {
-	width: 300px;
-	height: 200px;
+    width: 250px;
+}
+
+p
+{
+    font-size: 25px;
 }
 
 .btn
@@ -17,6 +23,6 @@
     color: #fff;
     background-color: #fe625a;
     padding: 10px;
-	border: none;
+    border: none;
     border-radius: 10px;
 }
